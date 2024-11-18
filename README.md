@@ -68,4 +68,5 @@ import tkinter as tk
 
 Running Code
 
-![image](https://github.com/user-attachments/assets/1e751991-8198-4d6b-b602-fedc211950eb)
+![OBeGHIrKLS](https://github.com/user-attachments/assets/e830510d-ff5e-444d-ad31-c645904ce124)
+
